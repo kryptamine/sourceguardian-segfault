@@ -1,0 +1,28 @@
+/node_modules
+/public/hot
+/public/storage
+/vendor
+/.idea
+/.vscode
+.phpunit.result.cache
+.rnd
+
+# IDE helper
+.phpstorm.meta.php
+_ide_helper.php
+_ide_helper_models.php
+
+# Echo
+laravel-echo-server.json
+
+# supervisor
+supervisord.log
+supervisord.pid
+
+laravel-echo-server.lock
+cert.crt
+priv.key
+
+build.json
+
+build
